@@ -12,6 +12,11 @@
     import Darwin
 
     public let random: (Int) -> Int = { Int(arc4random_uniform(UInt32($0))) }
+
+#elseif os(iOS)
+	import Darwin
+	
+	public let random: (Int) -> Int = { Int(arc4random_uniform(UInt32($0))) }
 #else
     import Glibc
 

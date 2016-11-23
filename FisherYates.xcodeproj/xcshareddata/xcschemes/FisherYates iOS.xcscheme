@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "42CEA71A1DE5921100B924DA"
-               BuildableName = "FisherYates iOS.framework"
+               BuildableName = "FisherYates.framework"
                BlueprintName = "FisherYates iOS"
                ReferencedContainer = "container:FisherYates.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "42CEA71A1DE5921100B924DA"
-            BuildableName = "FisherYates iOS.framework"
+            BuildableName = "FisherYates.framework"
             BlueprintName = "FisherYates iOS"
             ReferencedContainer = "container:FisherYates.xcodeproj">
          </BuildableReference>
@@ -65,7 +65,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "42CEA71A1DE5921100B924DA"
-            BuildableName = "FisherYates iOS.framework"
+            BuildableName = "FisherYates.framework"
             BlueprintName = "FisherYates iOS"
             ReferencedContainer = "container:FisherYates.xcodeproj">
          </BuildableReference>
@@ -83,7 +83,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "42CEA71A1DE5921100B924DA"
-            BuildableName = "FisherYates iOS.framework"
+            BuildableName = "FisherYates.framework"
             BlueprintName = "FisherYates iOS"
             ReferencedContainer = "container:FisherYates.xcodeproj">
          </BuildableReference>
